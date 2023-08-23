@@ -1,0 +1,426 @@
+
+Jun 01, 2023 15:17:30.03 NEW SESSION
+Jun 01, 2023 15:17:30.03 [4924:15476:0601/151730.028:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 01, 2023 15:19:21.69 [4924:15476:0601/151921.695:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 01, 2023 15:19:36.34 [4924:15476:0601/151936.348:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 02, 2023 24:38:42.00 [10612:16920:0602/003842.000:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2023 24:39:07.76 [10612:16920:0602/003907.768:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2023 24:40:06.57 [10612:16920:0602/004006.568:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2023 24:42:01.34 [10612:16920:0602/004201.345:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2023 24:45:44.82 [10612:16920:0602/004544.829:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 02, 2023 24:52:07.36 [10612:16920:0602/005207.364:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2023 13:51:57.29 [10612:16920:0603/135157.296:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2023 13:51:57.36 [10612:16920:0603/135157.364:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 03, 2023 13:51:57.36 [10612:16920:0603/135157.364:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 03, 2023 13:51:57.36 [10612:16920:0603/135157.364:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 03, 2023 13:51:58.89 [10612:5916:0603/135158.884:ERROR:device_event_log_impl.cc(222)] [13:51:58.888] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 03, 2023 13:52:21.95 [10612:16920:0603/135221.955:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 03, 2023 13:52:22.61 [10612:16920:0603/135222.619:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 03, 2023 13:52:24.46 [10612:16920:0603/135224.469:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 03, 2023 13:52:30.74 [10612:5916:0603/135230.744:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jun 03, 2023 13:52:57.29 [10612:16920:0603/135257.291:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 03, 2023 13:53:06.41 [10612:16920:0603/135306.411:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 03, 2023 13:53:06.61 [10612:16920:0603/135306.618:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 03, 2023 13:53:08.70 [10612:16920:0603/135308.701:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2023 13:53:23.39 [10612:16920:0603/135323.396:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 03, 2023 13:53:23.39 [10612:16920:0603/135323.396:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 03, 2023 13:53:23.39 [10612:16920:0603/135323.396:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 03, 2023 13:53:36.56 [10612:16920:0603/135336.559:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2023 13:54:42.91 [10612:16920:0603/135442.912:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 03, 2023 13:54:52.38 [10612:16920:0603/135452.381:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 03, 2023 13:54:59.01 [10612:16920:0603/135459.012:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 03, 2023 13:55:17.08 [10612:16920:0603/135517.084:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 03, 2023 13:55:17.12 [10612:16920:0603/135517.129:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Jun 03, 2023 13:55:19.22 [10612:16920:0603/135519.223:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2023 13:55:28.84 [10612:16920:0603/135528.844:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 03, 2023 13:55:55.92 [10612:16920:0603/135555.927:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Jun 03, 2023 13:57:13.86 [10612:16920:0603/135713.865:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 03, 2023 13:57:34.49 [10612:16920:0603/135734.496:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 03, 2023 13:57:44.20 [10612:16920:0603/135744.208:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2023 13:58:15.99 [10612:16920:0603/135815.999:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Jun 03, 2023 13:58:26.17 [10612:16920:0603/135826.175:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 03, 2023 13:58:31.22 [10612:16920:0603/135831.228:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2023 13:59:01.30 [10612:16920:0603/135901.305:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 03, 2023 13:59:01.30 [10612:16920:0603/135901.306:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 03, 2023 13:59:01.30 [10612:16920:0603/135901.306:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 03, 2023 13:59:03.32 [10612:16920:0603/135903.320:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 03, 2023 13:59:13.38 [10612:16920:0603/135913.384:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 03, 2023 13:59:21.11 [10612:16920:0603/135921.114:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 03, 2023 14:00:24.82 [10612:6748:0603/140024.823:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+Jun 03, 2023 14:00:24.82 ERROR: Couldn't read tbsCertificate as SEQUENCE
+Jun 03, 2023 14:00:24.82 ERROR: Failed parsing Certificate
+Jun 03, 2023 14:00:24.82 
+Jun 03, 2023 14:00:26.73 [10612:6748:0603/140026.733:ERROR:cert_verify_proc_builtin.cc(702)] CertVerifyProcBuiltin for sync.hgrtb.com failed:
+Jun 03, 2023 14:00:26.73 ----- Certificate i=0 (CN=sync.hgrtb.com) -----
+Jun 03, 2023 14:00:26.73 ERROR: Time is after notAfter
+Jun 03, 2023 14:00:26.73 
+Jun 03, 2023 14:00:26.73 
+
+Jun 06, 2023 24:31:29.65 NEW SESSION
+Jun 06, 2023 24:31:29.65 [5040:32584:0606/003129.644:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Jun 06, 2023 24:31:30.32 [5040:32584:0606/003130.326:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 06, 2023 24:31:30.65 [5040:32584:0606/003130.652:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 06, 2023 01:44:06.83 [2016:39500:0606/014406.831:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 06, 2023 12:16:29.57 [2016:39500:0606/121629.574:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Jun 06, 2023 12:16:31.10 [2016:40908:0606/121631.104:ERROR:device_event_log_impl.cc(222)] [12:16:31.101] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 06, 2023 12:16:31.66 [2016:39500:0606/121631.664:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 06, 2023 12:16:31.85 [2016:42232:0606/121631.856:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 06, 2023 14:09:11.59 [2016:39500:0606/140911.593:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 06, 2023 14:49:35.28 [2016:39500:0606/144935.283:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+Jun 06, 2023 14:49:35.28 [2016:39500:0606/144935.283:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -7
+Jun 06, 2023 14:49:37.39 [2016:40908:0606/144937.390:ERROR:device_event_log_impl.cc(222)] [14:49:37.393] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 06, 2023 15:38:19.52 [2016:39500:0606/153819.526:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 06, 2023 16:06:48.73 [2016:39500:0606/160648.732:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 06, 2023 16:06:50.41 [2016:40908:0606/160650.410:ERROR:device_event_log_impl.cc(222)] [16:06:50.411] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 06, 2023 16:07:03.52 [2016:40908:0606/160703.524:ERROR:device_event_log_impl.cc(222)] [16:07:03.527] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 06, 2023 16:07:17.64 [2016:39500:0606/160717.641:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 06, 2023 16:07:19.66 [2016:39500:0606/160719.664:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 06, 2023 16:08:15.75 [2016:39500:0606/160815.756:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 06, 2023 16:09:32.38 [2016:39500:0606/160932.388:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 06, 2023 16:09:35.88 [2016:39500:0606/160935.886:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 06, 2023 16:24:11.29 [40284:33944:0606/162411.292:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jun 19, 2023 04:04:13.01 NEW SESSION
+Jun 19, 2023 04:04:13.01 [42360:38972:0619/040413.009:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2023 04:04:39.41 [42360:38972:0619/040439.410:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2023 04:05:33.48 [42360:38972:0619/040533.484:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jun 19, 2023 04:13:06.81 NEW SESSION
+Jun 19, 2023 04:13:06.81 [16920:24356:0619/041306.815:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2023 04:13:30.92 [16920:24356:0619/041330.924:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2023 04:14:13.10 [16920:24356:0619/041413.104:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2023 04:15:57.34 [16920:24356:0619/041557.345:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2023 04:30:50.85 [16920:24356:0619/043050.854:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 19, 2023 12:50:33.42 [16920:24356:0619/125033.420:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Jun 19, 2023 12:50:35.51 [16920:47584:0619/125035.518:ERROR:device_event_log_impl.cc(222)] [12:50:35.521] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 19, 2023 12:50:39.55 [16920:24356:0619/125039.552:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2023 12:50:45.65 [16920:45640:0619/125045.651:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 19, 2023 12:51:34.68 [16920:24356:0619/125134.683:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2023 12:51:42.87 [16920:46584:0619/125142.871:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 19, 2023 12:55:54.83 [16920:24356:0619/125554.831:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 19, 2023 12:57:24.39 [16920:24356:0619/125724.398:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Jun 19, 2023 13:26:39.62 [16920:24356:0619/132639.620:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 19, 2023 15:43:02.23 [16920:24356:0619/154302.232:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+Jun 19, 2023 15:43:02.23 [16920:24356:0619/154302.232:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -7
+Jun 19, 2023 15:43:04.56 [16920:47584:0619/154304.567:ERROR:device_event_log_impl.cc(222)] [15:43:04.566] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 19, 2023 15:43:07.95 [16920:24356:0619/154307.955:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 19, 2023 15:43:12.50 [16920:24356:0619/154312.500:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 19, 2023 15:43:21.64 [16920:24356:0619/154321.646:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2023 15:44:01.58 [16920:24356:0619/154401.581:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 19, 2023 18:33:38.71 [16920:24356:0619/183338.715:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2023 18:33:38.73 [16920:46584:0619/183338.734:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 19, 2023 18:33:39.44 [16920:47584:0619/183339.448:ERROR:device_event_log_impl.cc(222)] [18:33:39.440] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 19, 2023 18:33:54.44 [16920:24356:0619/183354.448:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 19, 2023 18:34:06.51 [16920:24356:0619/183406.518:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 19, 2023 18:34:09.51 [16920:45640:0619/183409.518:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 19, 2023 18:42:12.62 [16920:24356:0619/184212.628:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 19, 2023 18:49:35.56 [16920:24356:0619/184935.568:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 19, 2023 18:49:44.73 [16920:46584:0619/184944.738:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 19, 2023 18:50:44.88 [16920:46584:0619/185044.889:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 19, 2023 18:59:38.65 [16920:24356:0619/185938.652:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 19, 2023 19:09:41.71 [16920:24356:0619/190941.719:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 19, 2023 19:13:04.53 [16920:46584:0619/191304.529:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 19, 2023 19:14:01.67 [16920:46584:0619/191401.679:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 19, 2023 19:15:27.37 [16920:46584:0619/191527.370:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 19, 2023 19:17:20.76 [16920:46584:0619/191720.767:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 19, 2023 19:19:44.80 [16920:24356:0619/191944.801:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 19, 2023 19:21:40.03 [16920:46584:0619/192140.039:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 19, 2023 20:06:50.32 [16920:24356:0619/200650.327:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 19, 2023 23:06:51.78 [16920:24356:0619/230651.786:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 20, 2023 01:45:21.86 [16920:47584:0620/014521.862:ERROR:device_event_log_impl.cc(222)] [01:45:21.868] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jun 20, 2023 01:45:26.48 [16920:24356:0620/014526.488:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 20, 2023 01:45:32.54 [16920:45640:0620/014532.545:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 20, 2023 01:46:25.62 [16920:24356:0620/014625.620:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 20, 2023 01:46:59.74 [16920:46584:0620/014659.742:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 20, 2023 01:48:04.39 [16920:24356:0620/014804.397:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 20, 2023 03:41:30.83 [16920:24356:0620/034130.829:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 20, 2023 03:42:00.31 [16920:24356:0620/034200.319:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 20, 2023 03:42:53.69 [16920:24356:0620/034253.693:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 20, 2023 03:44:36.70 [16920:24356:0620/034436.705:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 20, 2023 03:48:21.94 [16920:24356:0620/034821.944:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 20, 2023 14:08:39.55 [16920:24356:0620/140839.551:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 20, 2023 14:08:45.71 [16920:46584:0620/140845.714:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 20, 2023 14:10:41.02 [16920:24356:0620/141041.027:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 20, 2023 14:10:59.23 [16920:24356:0620/141059.238:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 20, 2023 14:12:39.58 [16920:24356:0620/141239.582:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 20, 2023 14:12:52.42 [16920:24356:0620/141252.424:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 20, 2023 14:13:14.94 [16920:24356:0620/141314.945:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 20, 2023 14:13:33.07 [16920:24356:0620/141333.071:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 20, 2023 14:49:30.75 [16920:24356:0620/144930.758:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 20, 2023 18:17:01.27 [16920:24356:0620/181701.267:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 20, 2023 18:17:07.92 [16920:24356:0620/181707.929:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 20, 2023 18:17:20.01 [16920:24356:0620/181720.018:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 20, 2023 18:17:23.01 [16920:7708:0620/181723.014:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 20, 2023 18:19:25.27 [16920:24356:0620/181925.276:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 21, 2023 10:20:54.69 [16920:24356:0621/102054.683:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 21, 2023 10:20:54.69 [16920:24356:0621/102054.699:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Jun 21, 2023 10:21:17.37 [16920:24356:0621/102117.378:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Jun 21, 2023 10:21:27.87 [16920:47584:0621/102127.872:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jun 21, 2023 10:21:28.17 [16920:47584:0621/102128.170:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jun 21, 2023 10:22:13.03 [16920:24356:0621/102213.037:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Jun 27, 2023 21:20:52.24 [16920:24356:0627/212052.249:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 27, 2023 21:20:52.32 [16920:24356:0627/212052.311:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Jun 27, 2023 21:20:52.35 [16920:24356:0627/212052.358:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 27, 2023 21:20:52.40 [16920:24356:0627/212052.405:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 27, 2023 21:20:52.40 [16920:24356:0627/212052.405:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 27, 2023 21:21:16.09 [16920:24356:0627/212116.097:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 27, 2023 21:21:19.32 [16920:24356:0627/212119.329:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 27, 2023 21:21:20.62 [16920:24356:0627/212120.624:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 27, 2023 21:21:26.11 [16920:47584:0627/212126.114:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jun 27, 2023 21:21:26.77 [16920:47584:0627/212126.775:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Jun 27, 2023 21:22:05.63 [16920:24356:0627/212205.634:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 27, 2023 21:22:15.13 [16920:24356:0627/212215.134:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 27, 2023 21:22:18.75 [16920:24356:0627/212218.752:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 10:33:44.21 [16920:24356:0628/103344.216:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Jun 28, 2023 10:33:44.23 [16920:24356:0628/103344.235:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 10:33:44.23 [16920:24356:0628/103344.235:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 10:33:44.31 [16920:24356:0628/103344.315:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2023 10:33:44.37 [16920:24356:0628/103344.372:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 12:36:18.57 [16920:24356:0628/123618.563:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2023 12:36:18.61 [16920:24356:0628/123618.617:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 12:36:18.71 [16920:24356:0628/123618.711:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 12:36:18.71 [16920:24356:0628/123618.711:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 12:36:18.72 [16920:24356:0628/123618.727:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Jun 28, 2023 12:41:23.58 [16920:24356:0628/124123.581:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 28, 2023 13:14:44.45 [16920:24356:0628/131444.454:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 28, 2023 14:01:26.20 [16920:24356:0628/140126.209:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Jun 28, 2023 14:01:30.83 [16920:24356:0628/140130.837:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2023 14:02:15.91 [16920:24356:0628/140215.918:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 28, 2023 15:30:29.57 [16920:24356:0628/153029.576:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 28, 2023 17:01:52.52 [16920:24356:0628/170152.522:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Jun 28, 2023 17:01:59.85 [16920:24356:0628/170159.852:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2023 17:02:05.97 [16920:45640:0628/170205.973:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 28, 2023 17:53:32.76 [16920:24356:0628/175332.766:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jun 28, 2023 20:53:34.86 [16920:24356:0628/205334.864:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jun 28, 2023 21:18:10.95 [16920:24356:0628/211810.955:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2023 21:18:10.95 [16920:46584:0628/211810.955:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jun 28, 2023 21:19:08.46 [16920:24356:0628/211908.469:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2023 21:19:25.98 [16920:46584:0628/211925.980:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Jun 28, 2023 21:56:23.09 NEW SESSION
+Jun 28, 2023 21:56:23.09 [35728:4596:0628/215623.090:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2023 21:56:23.09 [35728:4596:0628/215623.091:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 21:56:23.09 [35728:4596:0628/215623.091:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 21:56:43.62 [35728:4596:0628/215643.625:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 21:56:45.77 [35728:4596:0628/215645.770:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 21:56:50.38 [35728:4596:0628/215650.389:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2023 21:57:31.52 [35728:4596:0628/215731.524:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 21:57:41.04 [35728:4596:0628/215741.047:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 21:57:45.62 [35728:4596:0628/215745.629:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2023 21:59:08.39 [35728:4596:0628/215908.390:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2023 21:59:21.14 [35728:4596:0628/215921.143:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 21:59:25.74 [35728:4596:0628/215925.740:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 22:02:23.00 [35728:4596:0628/220223.000:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2023 22:02:40.06 [35728:4596:0628/220240.068:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 22:03:02.02 [35728:4596:0628/220302.027:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 22:09:25.79 [35728:4596:0628/220925.792:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2023 22:09:27.88 [35728:4596:0628/220927.887:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 22:10:40.05 [35728:4596:0628/221040.054:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 22:10:40.05 [35728:22928:0628/221040.054:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Jun 28, 2023 22:15:32.49 [35728:4596:0628/221532.496:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 22:15:58.76 [35728:4596:0628/221558.761:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 22:16:54.12 [35728:4596:0628/221654.125:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 22:18:32.15 [35728:4596:0628/221832.155:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 22:19:25.80 [35728:4596:0628/221925.802:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 28, 2023 22:21:37.54 [35728:4596:0628/222137.546:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 22:27:44.43 [35728:4596:0628/222744.437:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 28, 2023 22:27:44.43 [35728:22928:0628/222744.437:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+Jun 28, 2023 22:29:25.80 [35728:4596:0628/222925.807:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 29, 2023 11:25:15.51 [35728:4596:0629/112515.512:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jun 29, 2023 11:25:15.55 [35728:4596:0629/112515.552:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+Jun 29, 2023 11:25:28.83 [35728:4596:0629/112528.830:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Jul 25, 2023 20:19:39.66 NEW SESSION
+Jul 25, 2023 20:19:39.66 [81424:46980:0725/201939.648:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 25, 2023 20:19:39.70 [81424:46980:0725/201939.704:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 25, 2023 20:25:43.37 [81424:74332:0725/202543.374:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 25, 2023 20:26:06.35 [81424:74332:0725/202606.354:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 25, 2023 20:27:10.10 [81424:74332:0725/202710.109:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 25, 2023 20:28:12.27 [81424:74332:0725/202812.274:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 25, 2023 20:28:14.02 [81424:74332:0725/202814.024:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jul 25, 2023 20:38:29.61 [81424:46980:0725/203829.610:ERROR:device_event_log_impl.cc(222)] [20:38:29.591] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Jul 28, 2023 16:07:53.36 NEW SESSION
+Jul 28, 2023 16:07:53.36 [84420:26724:0728/160753.350:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 28, 2023 16:07:53.39 [84420:26724:0728/160753.394:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 28, 2023 16:09:10.55 [84420:26724:0728/160910.557:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jul 28, 2023 16:15:46.93 [84420:26724:0728/161546.929:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Jul 28, 2023 16:33:59.96 NEW SESSION
+Jul 28, 2023 16:33:59.96 [55836:42092:0728/163359.965:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 28, 2023 16:33:59.97 [55836:42092:0728/163359.971:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 28, 2023 16:34:32.14 [55836:42092:0728/163432.143:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Jul 28, 2023 16:37:43.39 [47172:56260:0728/163743.394:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Jul 28, 2023 16:37:43.42 [47172:56260:0728/163743.426:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+
+Aug 05, 2023 15:10:51.57 NEW SESSION
+Aug 05, 2023 15:10:51.57 [79032:31644:0805/151051.565:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 05, 2023 15:10:51.71 [79032:31644:0805/151051.717:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 05, 2023 15:17:53.89 [79032:86768:0805/151608.011:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 05, 2023 15:21:35.83 [79032:86768:0805/152135.830:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 05, 2023 15:28:53.52 [79032:86768:0805/152853.526:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Aug 05, 2023 15:28:53.71 [79032:31644:0805/152853.710:ERROR:device_event_log_impl.cc(222)] [15:28:53.530] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 05, 2023 15:36:52.58 [79032:86768:0805/153652.588:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 05, 2023 15:54:42.03 [79032:86768:0805/155442.037:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 05, 2023 15:59:22.50 [79032:86768:0805/155922.508:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 05, 2023 16:28:20.21 [79032:86768:0805/162820.214:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 05, 2023 20:52:38.01 [79032:86768:0805/205238.013:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Aug 05, 2023 20:52:38.03 [79032:31644:0805/205238.031:ERROR:device_event_log_impl.cc(222)] [20:52:38.018] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 05, 2023 21:07:57.16 [79032:86768:0805/210757.166:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 05, 2023 21:12:37.19 [79032:86768:0805/211237.194:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 05, 2023 21:51:19.44 [79032:31644:0805/215119.439:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+Aug 05, 2023 21:51:50.03 [79032:31644:0805/215150.029:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Aug 09, 2023 22:38:33.19 NEW SESSION
+Aug 09, 2023 22:38:33.19 [93548:89732:0809/223833.192:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 09, 2023 22:38:33.20 [93548:89732:0809/223833.199:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 09, 2023 22:38:33.22 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 09, 2023 22:49:48.56 [93548:94932:0809/224948.560:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 09, 2023 23:05:41.98 [89620:77704:0809/230541.984:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 09, 2023 23:05:42.00 [89620:77704:0809/230542.007:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 09, 2023 23:05:42.03 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 09, 2023 23:11:59.79 [80092:96892:0809/231159.790:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 09, 2023 23:11:59.80 [80092:96892:0809/231159.801:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 09, 2023 23:11:59.80 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 09, 2023 23:22:31.86 [81056:100004:0809/232231.864:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 09, 2023 23:22:31.90 [81056:100004:0809/232231.899:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 09, 2023 23:22:31.92 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 09, 2023 23:41:01.61 [83804:74284:0809/234101.610:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 09, 2023 23:41:01.62 [83804:74284:0809/234101.624:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 09, 2023 23:41:01.63 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 10, 2023 08:07:12.03 [96120:79268:0810/080712.039:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 10, 2023 08:07:12.07 [96120:79268:0810/080712.069:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 10, 2023 08:07:12.11 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 10, 2023 09:55:22.58 [96120:79268:0810/095522.582:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 10, 2023 09:58:54.77 [96120:79268:0810/095854.775:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 10, 2023 10:00:08.14 [96120:79268:0810/100008.144:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 10, 2023 10:01:18.87 [96120:79268:0810/100118.869:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 10, 2023 10:01:56.41 [96120:79268:0810/100156.409:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 10, 2023 10:03:16.51 [96120:79268:0810/100316.516:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 10, 2023 10:29:55.41 [96120:65976:0810/102955.414:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 10, 2023 12:09:59.94 [96120:65976:0810/120959.947:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 10, 2023 12:10:00.52 [96120:79268:0810/121000.523:ERROR:device_event_log_impl.cc(222)] [12:10:00.479] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 10, 2023 12:10:01.96 [96120:65976:0810/121001.965:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 12:10:01.96 [96120:93868:0810/121001.968:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 10, 2023 12:31:26.11 [96120:79268:0810/123126.111:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 10, 2023 13:23:59.23 [96120:79324:0810/132359.231:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for vbs4u.com failed:
+Aug 10, 2023 13:23:59.23 ----- Certificate i=0 (emailAddress=webmaster@odin.com,CN=odin.com,OU=Odin Automation,O=Odin,L=Moscow,ST=Moscow,C=RU) -----
+Aug 10, 2023 13:23:59.23 ERROR: No matching issuer found
+Aug 10, 2023 13:23:59.23 
+Aug 10, 2023 13:23:59.23 
+Aug 10, 2023 13:28:21.93 [96120:79268:0810/132821.934:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 10, 2023 13:29:28.93 [96120:79268:0810/132928.938:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 10, 2023 13:29:56.22 [96120:79268:0810/132956.225:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 10, 2023 13:33:57.42 [96120:65976:0810/133357.426:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 10, 2023 13:33:57.94 [96120:65976:0810/133357.948:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 10, 2023 13:34:13.54 [96120:65976:0810/133413.532:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 10, 2023 13:34:26.09 [96120:65976:0810/133426.090:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 10, 2023 13:34:28.52 [96120:79268:0810/133428.522:ERROR:device_event_log_impl.cc(222)] [13:34:28.523] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 10, 2023 13:34:40.54 [96120:65976:0810/133440.540:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 10, 2023 13:35:38.84 [96120:65976:0810/133538.848:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 10, 2023 13:45:45.92 [96120:65976:0810/134545.926:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 10, 2023 13:46:50.99 [96120:65976:0810/134650.998:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Aug 10, 2023 13:53:14.64 [96120:65976:0810/135314.642:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 10, 2023 13:58:44.66 [96120:65976:0810/135844.664:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 10, 2023 14:03:44.77 [96120:65976:0810/140344.769:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Aug 10, 2023 14:06:57.29 [96120:65976:0810/140657.292:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 10, 2023 14:11:18.71 [96120:65976:0810/141118.714:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Aug 10, 2023 14:14:57.26 [96120:65976:0810/141457.258:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 10, 2023 14:21:34.12 [96120:65976:0810/142134.123:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Aug 10, 2023 14:26:55.42 [96120:65976:0810/142655.428:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 10, 2023 14:28:19.09 [96120:65976:0810/142819.090:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Aug 10, 2023 14:29:29.93 [96120:65976:0810/142929.931:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 10, 2023 14:33:32.26 [96120:79268:0810/143332.266:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 10, 2023 14:34:30.13 [96120:79268:0810/143430.135:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 10, 2023 14:36:51.52 [96120:79268:0810/143651.521:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Aug 11, 2023 08:38:09.79 NEW SESSION
+Aug 11, 2023 08:38:09.79 [21496:46344:0811/083809.792:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 11, 2023 08:38:09.85 [21496:46344:0811/083809.851:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 11, 2023 08:38:09.90 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 11, 2023 09:10:48.44 [73340:74724:0811/091048.442:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 11, 2023 09:10:48.45 [73340:74724:0811/091048.454:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 11, 2023 09:10:48.48 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 11, 2023 09:45:11.55 [73340:74724:0811/094511.556:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 11, 2023 09:48:16.76 [73340:74724:0811/094816.768:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 11, 2023 09:48:32.14 [73340:74724:0811/094832.147:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 11, 2023 10:06:08.73 [73340:74724:0811/100608.733:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Aug 11, 2023 11:05:18.43 [73340:76928:0811/110518.436:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 11, 2023 11:07:03.23 [73340:76928:0811/110703.234:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 11, 2023 11:07:20.01 [73340:76928:0811/110720.019:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 11, 2023 11:07:21.86 [73340:76928:0811/110721.862:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 11, 2023 11:08:26.47 [73340:76928:0811/110826.472:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 11, 2023 11:08:27.68 [73340:76928:0811/110827.689:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 11, 2023 12:02:20.67 [73340:76928:0811/120220.670:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 11, 2023 12:12:19.18 [73340:76928:0811/121219.182:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 11, 2023 12:14:54.56 [73340:76928:0811/121454.564:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 11, 2023 12:24:06.96 [73340:74724:0811/122406.965:ERROR:device_event_log_impl.cc(222)] [12:24:06.965] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 11, 2023 12:26:36.41 [73340:76928:0811/122636.411:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 11, 2023 12:27:10.30 [73340:76928:0811/122710.306:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 11, 2023 13:00:32.69 [73340:33664:0811/130032.691:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for www.girlybusinesscards.com failed:
+Aug 11, 2023 13:00:32.70 ----- Certificate i=0 (CN=invalid-sni.invalid,OU=No SNI provided\; please fix your client.) -----
+Aug 11, 2023 13:00:32.70 ERROR: No matching issuer found
+Aug 11, 2023 13:00:32.70 
+Aug 11, 2023 13:00:32.70 
+Aug 11, 2023 13:15:30.53 [73340:76928:0811/131530.535:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 11, 2023 13:19:26.44 [73340:76928:0811/131926.445:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Aug 11, 2023 13:19:27.47 [73340:74724:0811/131927.473:ERROR:device_event_log_impl.cc(222)] [13:19:27.472] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 11, 2023 14:01:37.43 [73340:76928:0811/140137.430:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 11, 2023 14:03:53.44 [73340:76928:0811/140353.440:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Aug 11, 2023 14:08:27.12 [73340:76928:0811/140827.129:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 11, 2023 14:29:51.67 [73340:76928:0811/142951.674:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 11, 2023 17:03:42.58 [73340:87752:0811/170342.581:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 11, 2023 17:03:42.88 [73340:74724:0811/170342.888:ERROR:device_event_log_impl.cc(222)] [17:03:42.883] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 11, 2023 17:03:42.88 [73340:87752:0811/170342.888:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 11, 2023 17:03:44.62 [73340:76928:0811/170344.620:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 11, 2023 17:04:06.14 [73340:76928:0811/170406.148:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 11, 2023 17:04:06.18 [73340:87304:0811/170406.186:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 11, 2023 17:04:25.00 [73340:76928:0811/170425.002:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 11, 2023 17:04:27.03 [73340:76928:0811/170427.029:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 11, 2023 17:04:27.03 [73340:87304:0811/170427.029:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 11, 2023 17:04:27.03 [73340:87304:0811/170427.035:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 11, 2023 17:04:27.60 [73340:33664:0811/170427.603:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 11, 2023 17:04:29.14 [73340:74724:0811/170429.141:ERROR:device_event_log_impl.cc(222)] [17:04:29.136] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 11, 2023 17:09:47.80 [73340:76928:0811/170947.799:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 11, 2023 17:10:19.83 [73340:76928:0811/171019.831:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 11, 2023 17:12:39.24 [73340:76928:0811/171239.240:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 11, 2023 23:12:39.64 [73340:76928:0811/231239.638:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Aug 12, 2023 19:02:35.55 [73340:87752:0812/190235.545:ERROR:get_updates_processor.cc(265)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 12, 2023 19:02:35.82 [73340:74724:0812/190235.825:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 12, 2023 19:02:35.83 [73340:74724:0812/190235.833:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 12, 2023 19:02:36.83 [73340:76928:0812/190236.837:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2023 19:02:36.89 [73340:76928:0812/190236.893:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 12, 2023 19:03:49.09 [73340:76928:0812/190349.095:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 13, 2023 01:03:49.32 [73340:76928:0813/010349.325:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Aug 13, 2023 01:03:49.48 [73340:74724:0813/010349.480:ERROR:device_event_log_impl.cc(222)] [01:03:49.477] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 13, 2023 20:43:09.04 [73340:74724:0813/204309.040:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 13, 2023 20:43:09.04 [73340:74724:0813/204309.048:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 13, 2023 20:43:43.04 [73340:76928:0813/204343.042:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 13, 2023 20:43:45.11 [73340:76928:0813/204345.117:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 13, 2023 20:43:46.03 [73340:74724:0813/204346.030:ERROR:device_event_log_impl.cc(222)] [20:43:46.030] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 13, 2023 20:44:41.21 [73340:74724:0813/204441.215:ERROR:device_event_log_impl.cc(222)] [20:44:41.218] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 13, 2023 21:06:04.97 [73340:76928:0813/210604.968:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 13, 2023 21:08:26.03 [73340:74724:0813/210826.032:ERROR:device_event_log_impl.cc(222)] [21:08:26.024] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 13, 2023 21:21:29.87 [73340:76928:0813/212129.871:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 13, 2023 22:37:54.57 [73340:76928:0813/223754.560:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 13, 2023 22:38:04.26 [73340:76928:0813/223804.266:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Aug 16, 2023 10:07:03.31 NEW SESSION
+Aug 16, 2023 10:07:03.31 [19852:12852:0816/100703.310:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 16, 2023 10:07:03.34 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 16, 2023 12:38:38.86 [19852:12852:0816/123838.862:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+Aug 16, 2023 14:00:18.77 Opening in existing browser session.
+Aug 16, 2023 15:20:35.62 Opening in existing browser session.
+Aug 18, 2023 11:00:54.91 Opening in existing browser session.
+Aug 18, 2023 11:50:24.49 Opening in existing browser session.
+Aug 18, 2023 12:12:17.99 Opening in existing browser session.
+Aug 18, 2023 12:16:13.56 Opening in existing browser session.
+Aug 18, 2023 13:55:37.78 Opening in existing browser session.
+Aug 18, 2023 14:16:58.69 Opening in existing browser session.
+Aug 19, 2023 14:37:18.34 Opening in existing browser session.
+Aug 21, 2023 08:19:31.58 Opening in existing browser session.
+
+Aug 23, 2023 11:39:19.30 NEW SESSION
+Aug 23, 2023 11:39:19.30 [17228:19076:0823/113919.301:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -118
+Aug 23, 2023 11:39:48.11 [17228:19076:0823/113948.115:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Aug 23, 2023 11:41:22.85 [9264:14724:0823/114122.851:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
